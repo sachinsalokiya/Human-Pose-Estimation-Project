@@ -1,7 +1,6 @@
 """
 Human Pose Estimation Project
-Author: Shivam Chourasiya (shivamchourasiya766@gmail.com)
-Copyright (c) 2024
+Author: Sachin Salokiya (salokiyas@gmail.com)
 """
 
 # Human Pose Estimation Project
